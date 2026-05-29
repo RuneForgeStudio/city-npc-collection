@@ -1,0 +1,54 @@
+{
+  "id": "runeforgestudio-city-npcs",
+  "title": "RuneForge Studio: City NPC Collection",
+  "description": "<p>10 fully developed D&D 5e NPCs for urban campaigns — nobles, rogues, merchants, guards, bards, and warlocks. Includes a GM Journal with plot hooks, secrets, and NPC relationships. Tier A–C. Compatible with Foundry VTT v12+ and dnd5e v3.3+.</p>",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "14"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {"minimum": "3.3", "verified": "5.3"}
+      }
+    ]
+  },
+  "authors": [
+    {"name": "RuneForge Studio", "url": "https://runeforgestudio.com"}
+  ],
+  "packs": [
+    {
+      "name": "actors",
+      "label": "City NPC Collection — NPCs",
+      "path": "packs/actors",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {"PLAYER": "NONE", "ASSISTANT": "OBSERVER", "GAMEMASTER": "OWNER"}
+    },
+    {
+      "name": "journal",
+      "label": "City NPC Collection — GM Journal",
+      "path": "packs/journal",
+      "type": "JournalEntry",
+      "ownership": {"PLAYER": "NONE", "ASSISTANT": "OBSERVER", "GAMEMASTER": "OWNER"}
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "City NPC Collection",
+      "sorting": "m",
+      "packs": ["actors", "journal"]
+    }
+  ],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "url": "https://runeforgestudio.com",
+  "manifest": "https://github.com/runeforgestudio/city-npc-collection/releases/latest/download/module.json",
+  "download": "https://github.com/runeforgestudio/city-npc-collection/releases/download/v1.0.0/module.zip",
+  "license": "LICENSE",
+  "readme": "README.md"
+}
