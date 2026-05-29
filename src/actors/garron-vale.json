@@ -1,0 +1,468 @@
+{
+  "_id": "HKVVGgt0VpQ0PheL",
+  "name": "Garron Vale",
+  "type": "npc",
+  "img": "modules/runeforgestudio-city-npcs/assets/portraits/garron-vale.png",
+  "folder": "wakLVwzevF5LyQIu",
+  "system": {
+    "abilities": {
+      "str": {
+        "value": 14,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "dex": {
+        "value": 12,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "con": {
+        "value": 14,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "int": {
+        "value": 11,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "wis": {
+        "value": 13,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "cha": {
+        "value": 10,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      }
+    },
+    "attributes": {
+      "ac": {
+        "flat": 15,
+        "calc": "flat"
+      },
+      "hp": {
+        "value": 30,
+        "max": 30,
+        "temp": 0,
+        "tempmax": 0,
+        "formula": "4d8+12"
+      },
+      "init": {
+        "ability": "dex",
+        "bonus": ""
+      },
+      "movement": {
+        "walk": 30,
+        "fly": 0,
+        "swim": 0,
+        "burrow": 0,
+        "climb": 0,
+        "hover": false,
+        "units": "ft"
+      },
+      "senses": {
+        "darkvision": 0,
+        "blindsight": 0,
+        "tremorsense": 0,
+        "truesight": 0,
+        "units": "ft",
+        "special": ""
+      },
+      "spellcasting": ""
+    },
+    "details": {
+      "biography": {
+        "value": "<p><em>A broad-shouldered human man with short greying hair, a scar near his jawline, and tired eyes sharpened by years of night patrols. He wears a weathered city watch cloak over chain armor and carries an old lantern that casts a warm amber glow.</em></p><h3>Personality</h3><p>Quiet, vigilant, and deeply disciplined. Garron speaks with measured restraint and constantly watches his surroundings. He has little patience for corruption or cruelty, especially from those in authority.</p><h3>Motivation</h3><p>To protect ordinary citizens from the corruption festering inside the city watch and gather enough evidence to expose the former captain who betrayed his oath.</p><h3>Mannerisms</h3><p>Adjusts the lantern flame while thinking; pauses before entering dark streets; keeps one hand close to his staff at all times.</p><h3>Voice &amp; Accent</h3><p>Low, tired, steady. Speaks like someone used to giving patrol reports and short warnings.</p><h3>Bonds, Ideals, Flaws</h3><ul><li><strong>Bond:</strong> Garron still feels responsible for the younger guards he once trained. He secretly protects several witnesses tied to crimes committed by corrupt officers.</li><li><strong>Ideal:</strong> Justice means protecting people when institutions fail. Duty without integrity is worthless.</li><li><strong>Flaw:</strong> He struggles to trust authority figures and often works alone even when allies would help him.</li></ul><hr><h3>GM Notes</h3><p>Use Garron as a grounded urban protector NPC who can guide players through the darker parts of the city. He works well for investigation campaigns, corruption storylines, and morally gray city adventures.</p><h3>Secrets</h3><p>Garron possesses hidden records proving several city watch officers accepted bribes from smugglers and nobles. One missing witness could expose the entire network.</p><h3>Relationships</h3><p>Former City Watch Captain: hidden enemy and source of Garron's disgrace. Local citizens: cautious respect. Street vendors and night workers quietly support Garron. Marla Crowshade: mutual suspicion and wary respect — Garron has observed the unnatural blue lights from her ruined tower during his night patrols.</p><h3>Plot Hooks</h3><p>1. Garron asks the party to escort a frightened witness through dangerous alleys.\n2. A corrupt officer frames Garron for murder.\n3. Strange disappearances occur along Garron's old patrol route.\n4. Garron discovers evidence linking smugglers to the city council.</p><h3>Encounter Ideas</h3><p>1. Night patrol interrupted by an alley ambush.\n2. Investigation of a lantern signal system used by smugglers.\n3. Rooftop chase through foggy streets.\n4. Tense social encounter with corrupt guards at a checkpoint.</p>",
+        "public": ""
+      },
+      "alignment": "Lawful Neutral",
+      "race": "",
+      "type": {
+        "value": "humanoid",
+        "subtype": "",
+        "swarm": "",
+        "custom": ""
+      },
+      "cr": 1.0,
+      "spellLevel": 0,
+      "source": {
+        "book": "",
+        "page": "",
+        "license": "",
+        "custom": "City NPC Collection"
+      },
+      "xp": {
+        "value": 200
+      }
+    },
+    "traits": {
+      "size": "med",
+      "di": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "dr": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "dv": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "ci": {
+        "value": [],
+        "custom": ""
+      },
+      "languages": {
+        "value": [
+          "common"
+        ],
+        "custom": ""
+      }
+    },
+    "skills": {
+      "ath": {
+        "value": 1,
+        "ability": "str"
+      },
+      "prc": {
+        "value": 1,
+        "ability": "wis"
+      },
+      "ste": {
+        "value": 1,
+        "ability": "dex"
+      },
+      "med": {
+        "value": 1,
+        "ability": "wis"
+      },
+      "sur": {
+        "value": 1,
+        "ability": "wis"
+      },
+      "ani": {
+        "value": 1,
+        "ability": "wis"
+      }
+    }
+  },
+  "prototypeToken": {
+    "name": "Garron Vale",
+    "displayName": 20,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "modules/runeforgestudio-city-npcs/assets/tokens/garron-vale.png",
+      "scaleX": 1,
+      "scaleY": 1
+    },
+    "sight": {
+      "enabled": true,
+      "range": 0
+    },
+    "disposition": 0,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": null
+    }
+  },
+  "items": [
+    {
+      "_id": "Oycnv4bvY31KZQ55",
+      "name": "Lantern Vigilance",
+      "type": "feat",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "description": {
+          "value": "<p>Garron has advantage on Wisdom (Perception) checks made in dim light or darkness while carrying his lantern.</p>",
+          "chat": ""
+        },
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activation": {
+          "type": "",
+          "value": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst"
+        },
+        "target": {
+          "affects": {
+            "type": "creature"
+          }
+        },
+        "range": {
+          "value": null,
+          "units": "self"
+        },
+        "uses": {
+          "max": "",
+          "recovery": [],
+          "spent": 0
+        },
+        "activities": {}
+      },
+      "effects": [],
+      "flags": {}
+    },
+    {
+      "_id": "FcmqroYSUyFmPFef",
+      "name": "Street Patrol Veteran",
+      "type": "feat",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "description": {
+          "value": "<p>Garron knows the safest and fastest routes through most city districts.</p>",
+          "chat": ""
+        },
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activation": {
+          "type": "",
+          "value": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst"
+        },
+        "target": {
+          "affects": {
+            "type": "creature"
+          }
+        },
+        "range": {
+          "value": null,
+          "units": "self"
+        },
+        "uses": {
+          "max": "",
+          "recovery": [],
+          "spent": 0
+        },
+        "activities": {}
+      },
+      "effects": [],
+      "flags": {}
+    },
+    {
+      "_id": "x0S9y3IWnTqszY5m",
+      "name": "Watchman's Instinct",
+      "type": "feat",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "description": {
+          "value": "<p>Garron cannot be surprised while conscious during urban encounters.</p>",
+          "chat": ""
+        },
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activation": {
+          "type": "",
+          "value": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst"
+        },
+        "target": {
+          "affects": {
+            "type": "creature"
+          }
+        },
+        "range": {
+          "value": null,
+          "units": "self"
+        },
+        "uses": {
+          "max": "",
+          "recovery": [],
+          "spent": 0
+        },
+        "activities": {}
+      },
+      "effects": [],
+      "flags": {}
+    },
+    {
+      "_id": "dAGnUxSek8TriuVO",
+      "name": "Quarterstaff",
+      "type": "weapon",
+      "img": "icons/svg/sword.svg",
+      "system": {
+        "description": {
+          "value": "<p>Quarterstaff (+4 to hit, 1d6+2 bludgeoning, reach 5 ft)</p>"
+        },
+        "type": {
+          "value": "martialM",
+          "baseItem": ""
+        },
+        "damage": {
+          "base": {
+            "number": 1,
+            "denomination": 6,
+            "types": [
+              "bludgeoning"
+            ],
+            "bonus": "2"
+          }
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "reach": 5,
+          "units": "ft"
+        },
+        "activities": {
+          "HjLMMixKk7PKRjLY": {
+            "_id": "HjLMMixKk7PKRjLY",
+            "type": "attack",
+            "activation": {
+              "type": "action",
+              "value": 1
+            },
+            "attack": {
+              "ability": "",
+              "bonus": "4",
+              "critical": {
+                "threshold": null
+              },
+              "flat": true,
+              "type": {
+                "value": "melee",
+                "classification": "weapon"
+              }
+            },
+            "damage": {
+              "parts": [
+                {
+                  "number": 1,
+                  "denomination": 6,
+                  "types": [
+                    "bludgeoning"
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        "equipped": true,
+        "proficient": 1
+      },
+      "effects": [],
+      "flags": {}
+    },
+    {
+      "_id": "piNIAVpeDSUFF71S",
+      "name": "Shortsword",
+      "type": "weapon",
+      "img": "icons/svg/sword.svg",
+      "system": {
+        "description": {
+          "value": "<p>Shortsword (+4 to hit, 1d6+2 piercing, reach 5 ft)</p>"
+        },
+        "type": {
+          "value": "martialM",
+          "baseItem": ""
+        },
+        "damage": {
+          "base": {
+            "number": 1,
+            "denomination": 6,
+            "types": [
+              "piercing"
+            ],
+            "bonus": "2"
+          }
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "reach": 5,
+          "units": "ft"
+        },
+        "activities": {
+          "p8kn5GqpbxXw6pWM": {
+            "_id": "p8kn5GqpbxXw6pWM",
+            "type": "attack",
+            "activation": {
+              "type": "action",
+              "value": 1
+            },
+            "attack": {
+              "ability": "",
+              "bonus": "4",
+              "critical": {
+                "threshold": null
+              },
+              "flat": true,
+              "type": {
+                "value": "melee",
+                "classification": "weapon"
+              }
+            },
+            "damage": {
+              "parts": [
+                {
+                  "number": 1,
+                  "denomination": 6,
+                  "types": [
+                    "piercing"
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        "equipped": true,
+        "proficient": 1
+      },
+      "effects": [],
+      "flags": {}
+    }
+  ],
+  "effects": [],
+  "flags": {}
+}

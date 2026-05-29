@@ -1,0 +1,397 @@
+{
+  "_id": "3HlFPYq9TKqkc9or",
+  "name": "Lady Orvaine",
+  "type": "npc",
+  "img": "modules/runeforgestudio-city-npcs/assets/portraits/lady-orvaine.png",
+  "folder": "BE3uksytplbVyIL3",
+  "system": {
+    "abilities": {
+      "str": {
+        "value": 8,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "dex": {
+        "value": 13,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "con": {
+        "value": 12,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "int": {
+        "value": 15,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "wis": {
+        "value": 13,
+        "proficient": 1,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "cha": {
+        "value": 18,
+        "proficient": 1,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      }
+    },
+    "attributes": {
+      "ac": {
+        "flat": 13,
+        "calc": "flat"
+      },
+      "hp": {
+        "value": 32,
+        "max": 32,
+        "temp": 0,
+        "tempmax": 0,
+        "formula": "5d8+5"
+      },
+      "init": {
+        "ability": "dex",
+        "bonus": ""
+      },
+      "movement": {
+        "walk": 30,
+        "fly": 0,
+        "swim": 0,
+        "burrow": 0,
+        "climb": 0,
+        "hover": false,
+        "units": "ft"
+      },
+      "senses": {
+        "darkvision": 0,
+        "blindsight": 0,
+        "tremorsense": 0,
+        "truesight": 0,
+        "units": "ft",
+        "special": ""
+      },
+      "spellcasting": "cha"
+    },
+    "details": {
+      "biography": {
+        "value": "<p><em>A striking woman in her mid-thirties with rich auburn hair in a partially-pinned style, sharp green eyes behind a warm public smile, and the confident bearing of someone who has never needed to raise her voice. She dresses fashionably without severity — warm rather than austere — which is deliberate.</em></p><h3>Personality</h3><p>Warmly charming, receptive, and strategically patient. She appears interested rather than ambitious. She listens more than she speaks with new acquaintances and remembers everything.</p><h3>Motivation</h3><p>To construct a commercial and political position so structurally embedded in the city's economy that her influence becomes a fact of civic life rather than a personality contest.</p><h3>Mannerisms</h3><p>Listens completely before responding; asks follow-up questions slightly more specific than comfortable; volunteers small personal admissions that create false intimacy; never checks whether she is the most powerful person in a room — she already knows.</p><h3>Voice &amp; Accent</h3><p>Warm, measured, attentive. She speaks as if the person she is talking to is the most relevant person she has encountered this week.</p><h3>Bonds, Ideals, Flaws</h3><ul><li><strong>Bond:</strong> She is genuinely fond of her younger brother Daven, who knows nothing of her methods.</li><li><strong>Ideal:</strong> Patience is power. The person who waits the longest in the right position wins every negotiation.</li><li><strong>Flaw:</strong> She has underestimated Elira Storme's depth of resource.</li></ul><hr><h3>GM Notes</h3><p>Use Orvaine as a second political layer beneath Elira — younger, warmer in presentation, and building something Elira has not yet noticed. Can be ally, information source on Elira's methods, or long-term rival. Connects to Edra Fosse trade license plot and Cael financial arrangement.</p><h3>Secrets</h3><p>Her commercial network will give her leverage over significant city import commerce within two years. She shares a financial arrangement with Cael neither has named. She knows more about Elira's orphan fund mechanism than Elira realizes.</p><h3>Relationships</h3><p>Lady Elira Storme: political rival whom Orvaine does not underestimate while Elira underestimates her. | Cael: silent financial overlap neither has named. | Quilby Thistledown: she finds him charming; he finds her dangerous. | Edra Fosse: has begun noticing patterns Orvaine prefers unnoticed.</p><h3>Plot Hooks</h3><p>1. Orvaine requests a favor framed as personal — it also damages one of Elira's interests.\n2. Edra Fosse's documentation traces to silent partnerships in Orvaine's name.\n3. The party discovers the Cael-Orvaine connection before either knows.\n4. Orvaine quietly acquires something the party was cultivating before they noticed she was watching.</p><h3>Encounter Ideas</h3><p>1. Council reception where Orvaine speaks privately with each party member before Elira has greeted them.\n2. Orvaine requests a discreet meeting and arrives exactly on time with no visible preparation.\n3. A party member receives a perfectly chosen gift from Orvaine without knowing what it signals.</p>",
+        "public": ""
+      },
+      "alignment": "Neutral Evil",
+      "race": "",
+      "type": {
+        "value": "humanoid",
+        "subtype": "",
+        "swarm": "",
+        "custom": ""
+      },
+      "cr": 4.0,
+      "spellLevel": 0,
+      "source": {
+        "book": "",
+        "page": "",
+        "license": "",
+        "custom": "City NPC Collection"
+      },
+      "xp": {
+        "value": 1100
+      }
+    },
+    "traits": {
+      "size": "med",
+      "di": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "dr": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "dv": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "ci": {
+        "value": [],
+        "custom": ""
+      },
+      "languages": {
+        "value": [
+          "common",
+          "elvish"
+        ],
+        "custom": ""
+      }
+    },
+    "skills": {
+      "dec": {
+        "value": 1,
+        "ability": "cha"
+      },
+      "his": {
+        "value": 1,
+        "ability": "int"
+      },
+      "ins": {
+        "value": 1,
+        "ability": "wis"
+      },
+      "per": {
+        "value": 1,
+        "ability": "cha"
+      },
+      "prc": {
+        "value": 1,
+        "ability": "wis"
+      }
+    }
+  },
+  "prototypeToken": {
+    "name": "Lady Orvaine",
+    "displayName": 20,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "modules/runeforgestudio-city-npcs/assets/tokens/lady-orvaine.png",
+      "scaleX": 1,
+      "scaleY": 1
+    },
+    "sight": {
+      "enabled": true,
+      "range": 0
+    },
+    "disposition": 0,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": null
+    }
+  },
+  "items": [
+    {
+      "_id": "RRD2y0KUuuzseS2I",
+      "name": "Council Charm",
+      "type": "feat",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "description": {
+          "value": "<p>Once per scene, Orvaine can attempt a DC 14 CHA (Persuasion) check to shift a council member's stated position in her favor for the remainder of the session.</p>",
+          "chat": ""
+        },
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activation": {
+          "type": "",
+          "value": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst"
+        },
+        "target": {
+          "affects": {
+            "type": "creature"
+          }
+        },
+        "range": {
+          "value": null,
+          "units": "self"
+        },
+        "uses": {
+          "max": "",
+          "recovery": [],
+          "spent": 0
+        },
+        "activities": {}
+      },
+      "effects": [],
+      "flags": {}
+    },
+    {
+      "_id": "5uwukoAE8BFMELXc",
+      "name": "Warm Surface",
+      "type": "feat",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "description": {
+          "value": "<p>Creatures have disadvantage on Insight checks to detect Orvaine's true intentions during a first conversation with her.</p>",
+          "chat": ""
+        },
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activation": {
+          "type": "",
+          "value": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst"
+        },
+        "target": {
+          "affects": {
+            "type": "creature"
+          }
+        },
+        "range": {
+          "value": null,
+          "units": "self"
+        },
+        "uses": {
+          "max": "",
+          "recovery": [],
+          "spent": 0
+        },
+        "activities": {}
+      },
+      "effects": [],
+      "flags": {}
+    },
+    {
+      "_id": "kPpDYr0qakoPuiPL",
+      "name": "Spellcasting (CHA, DC 15, +7)",
+      "type": "feat",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "description": {
+          "value": "<p>Cantrips: Friends, Vicious Mockery, Minor Illusion. 1st (4): Charm Person, Disguise Self, Dissonant Whispers. 2nd (3): Suggestion, Detect Thoughts, Crown of Madness. 3rd (3): Hypnotic Pattern, Tongues.</p>",
+          "chat": ""
+        },
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activation": {
+          "type": "",
+          "value": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst"
+        },
+        "target": {
+          "affects": {
+            "type": "creature"
+          }
+        },
+        "range": {
+          "value": null,
+          "units": "self"
+        },
+        "uses": {
+          "max": "",
+          "recovery": [],
+          "spent": 0
+        },
+        "activities": {}
+      },
+      "effects": [],
+      "flags": {}
+    },
+    {
+      "_id": "VnP3Mjku7YkTlPcT",
+      "name": "Spellcasting",
+      "type": "weapon",
+      "img": "icons/svg/sword.svg",
+      "system": {
+        "description": {
+          "value": "<p>Spellcasting (no melee attacks normally)</p>"
+        },
+        "type": {
+          "value": "martialM",
+          "baseItem": ""
+        },
+        "damage": {
+          "base": {
+            "number": 1,
+            "denomination": 6,
+            "types": [
+              "slashing"
+            ],
+            "bonus": ""
+          }
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "reach": 5,
+          "units": "ft"
+        },
+        "activities": {
+          "l4gA5p5OttQCiiml": {
+            "_id": "l4gA5p5OttQCiiml",
+            "type": "attack",
+            "activation": {
+              "type": "action",
+              "value": 1
+            },
+            "attack": {
+              "ability": "",
+              "bonus": "5",
+              "critical": {
+                "threshold": null
+              },
+              "flat": true,
+              "type": {
+                "value": "melee",
+                "classification": "weapon"
+              }
+            },
+            "damage": {
+              "parts": [
+                {
+                  "number": 1,
+                  "denomination": 6,
+                  "types": [
+                    "slashing"
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        "equipped": true,
+        "proficient": 1
+      },
+      "effects": [],
+      "flags": {}
+    }
+  ],
+  "effects": [],
+  "flags": {}
+}

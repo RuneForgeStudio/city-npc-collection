@@ -1,0 +1,465 @@
+{
+  "_id": "hTeShDpPm4d6lvCd",
+  "name": "Brunna Rootmantle",
+  "type": "npc",
+  "img": "modules/runeforgestudio-city-npcs/assets/portraits/brunna-rootmantle.png",
+  "folder": "wakLVwzevF5LyQIu",
+  "system": {
+    "abilities": {
+      "str": {
+        "value": 14,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "dex": {
+        "value": 10,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "con": {
+        "value": 15,
+        "proficient": 1,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "int": {
+        "value": 11,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "wis": {
+        "value": 14,
+        "proficient": 1,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "cha": {
+        "value": 10,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      }
+    },
+    "attributes": {
+      "ac": {
+        "flat": 12,
+        "calc": "flat"
+      },
+      "hp": {
+        "value": 18,
+        "max": 18,
+        "temp": 0,
+        "tempmax": 0,
+        "formula": "4d8"
+      },
+      "init": {
+        "ability": "dex",
+        "bonus": ""
+      },
+      "movement": {
+        "walk": 25,
+        "fly": 0,
+        "swim": 0,
+        "burrow": 0,
+        "climb": 0,
+        "hover": false,
+        "units": "ft"
+      },
+      "senses": {
+        "darkvision": 60,
+        "blindsight": 0,
+        "tremorsense": 0,
+        "truesight": 0,
+        "units": "ft",
+        "special": ""
+      },
+      "spellcasting": ""
+    },
+    "details": {
+      "biography": {
+        "value": "<p><em>Broad-shouldered dwarf woman with weather-browned skin, iron-gray braids tucked under a green kerchief, and forearms strong from years of hauling root crates. Her left eyebrow is permanently raised in suspicion. She smells faintly of rye flour, damp soil, woodsmoke, and peppered cabbage.</em></p><h3>Personality</h3><p>Gruff, practical, and allergic to nonsense. Brunna complains before helping, complains while helping, and then quietly makes sure everyone has eaten. She respects punctuality, clean boots, honest work, and anyone who can tell a turnip from a rutabaga without guessing.</p><h3>Motivation</h3><p>Keep her small family fed, protect the local harvest from blight and bandits, and prove that plain village food can save more lives than half the swords in an adventuring company.</p><h3>Mannerisms</h3><p>Squints at coins as if they might be personally insulting her. Calls adventurers 'blade-folk' whether they carry blades or not. Taps bad vegetables with one knuckle and can identify rot by sound. Softens immediately around children, then denies it if noticed.</p><h3>Voice &amp; Accent</h3><p>Low, gravelly Dwarvish contralto with clipped market-day impatience. Uses farm metaphors constantly. When worried, she mutters recipes under her breath like prayers.</p><h3>Bonds, Ideals, Flaws</h3><ul><li><strong>Bond:</strong> Her young son Torren is the center of her world. Soft loyalty to The White Mouse, whose kitchen buys her bruised vegetables and whose regulars keep an eye on Torren.</li><li><strong>Ideal:</strong> A town survives on full bellies, straight dealing, and neighbors who show up when the weather turns ugly.</li><li><strong>Flaw:</strong> Quick to judge travelers as lazy, wasteful, or soft. Her pride makes it hard for her to ask for help even when danger is at her door.</li></ul><hr><h3>GM Notes</h3><p>Use Brunna as a reliable small-town supply NPC with teeth. Her magic-adjacent baked goods are limited by ingredients and Sunday market availability. An excellent way to ground the party in village life.</p><h3>Secrets</h3><p>1. Her late husband buried a sealed iron strongbox under the old onion patch after returning from militia service; she has never opened it.\n2. Her best-selling pepper-crust hand pies use a tiny measure of blessing-salt from an abandoned roadside shrine.\n3. Torren has been feeding a strange pale root-creature in the cellar, believing it to be a garden spirit.\n4. Brunna once saw a cloaked figure buying spoiled black carrots after midnight and recognized the boots as belonging to someone respectable.</p><h3>Relationships</h3><p>Quilby 'Quick' Thistledown: neighbor and steady buyer of soup vegetables; weekly price arguments are practically a ritual. Torren Rootmantle: her eight-year-old son, curious, mud-covered, and too brave near cellars. Old Marra Kettlefen: rival market baker. Farmer's Circle: respect her work ethic but fear her temper.</p><h3>Plot Hooks</h3><p>1. Brunna hires the party to find Torren after he follows the pale root-creature into an abandoned irrigation tunnel.\n2. Her Sunday stall is sabotaged with black-veined carrots that sicken customers.\n3. She asks the party to open her late husband's buried strongbox, but doing so attracts old militia enemies.\n4. A noble's steward tries to seize her plots for a 'road improvement' that would benefit a rival merchant.</p><h3>Encounter Ideas</h3><p>1. Market scene: Brunna refuses to sell premium travel cakes until the party helps unload a cart.\n2. Farm night watch: animated root bundles crawl from the furrows toward The White Mouse cellar.\n3. Low-stakes combat: scarecrows stuffed with blighted vine matter attack the vegetable plots during rain.</p>",
+        "public": ""
+      },
+      "alignment": "Neutral Good",
+      "race": "dwarf",
+      "type": {
+        "value": "humanoid",
+        "subtype": "dwarf",
+        "swarm": "",
+        "custom": ""
+      },
+      "cr": 0.25,
+      "spellLevel": 0,
+      "source": {
+        "book": "",
+        "page": "",
+        "license": "",
+        "custom": "City NPC Collection"
+      },
+      "xp": {
+        "value": 50
+      }
+    },
+    "traits": {
+      "size": "med",
+      "di": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "dr": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "dv": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "ci": {
+        "value": [],
+        "custom": ""
+      },
+      "languages": {
+        "value": [
+          "common",
+          "dwarvish"
+        ],
+        "custom": ""
+      }
+    },
+    "skills": {
+      "ani": {
+        "value": 1,
+        "ability": "wis"
+      },
+      "ins": {
+        "value": 1,
+        "ability": "wis"
+      },
+      "nat": {
+        "value": 1,
+        "ability": "int"
+      },
+      "per": {
+        "value": 1,
+        "ability": "cha"
+      },
+      "sur": {
+        "value": 1,
+        "ability": "wis"
+      }
+    }
+  },
+  "prototypeToken": {
+    "name": "Brunna Rootmantle",
+    "displayName": 20,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "modules/runeforgestudio-city-npcs/assets/tokens/brunna-rootmantle.png",
+      "scaleX": 1,
+      "scaleY": 1
+    },
+    "sight": {
+      "enabled": true,
+      "range": 60
+    },
+    "disposition": 1,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": null
+    }
+  },
+  "items": [
+    {
+      "_id": "3cpvjuOyYICu1Q30",
+      "name": "Dwarven Resilience",
+      "type": "feat",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "description": {
+          "value": "<p>Brunna has advantage on saving throws against poison and resistance to poison damage.</p>",
+          "chat": ""
+        },
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activation": {
+          "type": "",
+          "value": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst"
+        },
+        "target": {
+          "affects": {
+            "type": "creature"
+          }
+        },
+        "range": {
+          "value": null,
+          "units": "self"
+        },
+        "uses": {
+          "max": "",
+          "recovery": [],
+          "spent": 0
+        },
+        "activities": {}
+      },
+      "effects": [],
+      "flags": {}
+    },
+    {
+      "_id": "5LmDHiM42aOgHHId",
+      "name": "Market Hardiness",
+      "type": "feat",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "description": {
+          "value": "<p>Brunna has advantage on Constitution checks to resist exhaustion from travel, weather, or hard labor.</p>",
+          "chat": ""
+        },
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activation": {
+          "type": "",
+          "value": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst"
+        },
+        "target": {
+          "affects": {
+            "type": "creature"
+          }
+        },
+        "range": {
+          "value": null,
+          "units": "self"
+        },
+        "uses": {
+          "max": "",
+          "recovery": [],
+          "spent": 0
+        },
+        "activities": {}
+      },
+      "effects": [],
+      "flags": {}
+    },
+    {
+      "_id": "4p3ZcGzKvPSOWVpo",
+      "name": "Rootmantle Stoutcakes",
+      "type": "feat",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "description": {
+          "value": "<p>Brunna can sell dense savory cakes that remain fresh for 7 days. A creature that eats one during a short rest gains 2d4 temporary hit points until its next long rest.</p>",
+          "chat": ""
+        },
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activation": {
+          "type": "",
+          "value": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst"
+        },
+        "target": {
+          "affects": {
+            "type": "creature"
+          }
+        },
+        "range": {
+          "value": null,
+          "units": "self"
+        },
+        "uses": {
+          "max": "",
+          "recovery": [],
+          "spent": 0
+        },
+        "activities": {}
+      },
+      "effects": [],
+      "flags": {}
+    },
+    {
+      "_id": "VVi4qWrOutwxWRoo",
+      "name": "Harvest Sickle",
+      "type": "weapon",
+      "img": "icons/svg/sword.svg",
+      "system": {
+        "description": {
+          "value": "<p>Harvest Sickle (+4 to hit, 1d4+2 slashing, reach 5 ft)</p>"
+        },
+        "type": {
+          "value": "martialM",
+          "baseItem": ""
+        },
+        "damage": {
+          "base": {
+            "number": 1,
+            "denomination": 4,
+            "types": [
+              "slashing"
+            ],
+            "bonus": "2"
+          }
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "reach": 5,
+          "units": "ft"
+        },
+        "activities": {
+          "9rUeSkc5EntTBkp9": {
+            "_id": "9rUeSkc5EntTBkp9",
+            "type": "attack",
+            "activation": {
+              "type": "action",
+              "value": 1
+            },
+            "attack": {
+              "ability": "",
+              "bonus": "4",
+              "critical": {
+                "threshold": null
+              },
+              "flat": true,
+              "type": {
+                "value": "melee",
+                "classification": "weapon"
+              }
+            },
+            "damage": {
+              "parts": [
+                {
+                  "number": 1,
+                  "denomination": 4,
+                  "types": [
+                    "slashing"
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        "equipped": true,
+        "proficient": 1
+      },
+      "effects": [],
+      "flags": {}
+    },
+    {
+      "_id": "HENCDyljxvMoX0RF",
+      "name": "Market Ladle",
+      "type": "weapon",
+      "img": "icons/svg/sword.svg",
+      "system": {
+        "description": {
+          "value": "<p>Market Ladle (+4 to hit, 1d4+2 bludgeoning, reach 5 ft)</p>"
+        },
+        "type": {
+          "value": "martialM",
+          "baseItem": ""
+        },
+        "damage": {
+          "base": {
+            "number": 1,
+            "denomination": 4,
+            "types": [
+              "bludgeoning"
+            ],
+            "bonus": "2"
+          }
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "reach": 5,
+          "units": "ft"
+        },
+        "activities": {
+          "NbueQW4jHZiTSMbr": {
+            "_id": "NbueQW4jHZiTSMbr",
+            "type": "attack",
+            "activation": {
+              "type": "action",
+              "value": 1
+            },
+            "attack": {
+              "ability": "",
+              "bonus": "4",
+              "critical": {
+                "threshold": null
+              },
+              "flat": true,
+              "type": {
+                "value": "melee",
+                "classification": "weapon"
+              }
+            },
+            "damage": {
+              "parts": [
+                {
+                  "number": 1,
+                  "denomination": 4,
+                  "types": [
+                    "bludgeoning"
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        "equipped": true,
+        "proficient": 1
+      },
+      "effects": [],
+      "flags": {}
+    }
+  ],
+  "effects": [],
+  "flags": {}
+}

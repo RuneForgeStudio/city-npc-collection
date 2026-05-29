@@ -1,0 +1,669 @@
+{
+  "_id": "JSD3FT4Ddrhssawj",
+  "name": "\"Needle\" Voss",
+  "type": "npc",
+  "img": "modules/runeforgestudio-city-npcs/assets/portraits/needle-voss.png",
+  "folder": "BE3uksytplbVyIL3",
+  "system": {
+    "abilities": {
+      "str": {
+        "value": 10,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "dex": {
+        "value": 18,
+        "proficient": 1,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "con": {
+        "value": 12,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "int": {
+        "value": 16,
+        "proficient": 1,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "wis": {
+        "value": 13,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "cha": {
+        "value": 14,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      }
+    },
+    "attributes": {
+      "ac": {
+        "flat": 15,
+        "calc": "flat"
+      },
+      "hp": {
+        "value": 38,
+        "max": 38,
+        "temp": 0,
+        "tempmax": 0,
+        "formula": "7d8+7"
+      },
+      "init": {
+        "ability": "dex",
+        "bonus": ""
+      },
+      "movement": {
+        "walk": 30,
+        "fly": 0,
+        "swim": 0,
+        "burrow": 0,
+        "climb": 0,
+        "hover": false,
+        "units": "ft"
+      },
+      "senses": {
+        "darkvision": 60,
+        "blindsight": 0,
+        "tremorsense": 0,
+        "truesight": 0,
+        "units": "ft",
+        "special": ""
+      },
+      "spellcasting": "int"
+    },
+    "details": {
+      "biography": {
+        "value": "<p><em>Lean and wiry, 5'9\", coiled stillness. Sharp pale amber eyes. Short dark hair, slightly unkempt. Faded scar from left eyebrow to cheekbone. Silver needle tattoo on right wrist: mark of the Thorn Brotherhood.</em></p><h3>Personality</h3><p>Cold, precise, and utterly professional. Never raises his voice — volume is weakness. Speaks in measured, clipped sentences with a dry, pitch-black sense of humor. Treats every interaction like a transaction.</p><h3>Motivation</h3><p>Self-preservation through information control. Repay an unpayable debt to Cael. Keep Mira safe.</p><h3>Mannerisms</h3><p>Constantly rolls a thin silver needle between his fingers. Never sits with his back to a door. Orders water at taverns, never ale. Counts exits within three seconds of entering any room.</p><h3>Voice &amp; Accent</h3><p>Low, unhurried whisper. Slight northern coastal accent. Never interrupts. Never repeats himself.</p><h3>Bonds, Ideals, Flaws</h3><ul><li><strong>Bond:</strong> Owes his life to Guildmaster Cael of the Thorn Brotherhood. Secretly sends money to his younger sister Mira under the alias 'Daran Wess.'</li><li><strong>Ideal:</strong> Information is the only currency that never devalues. Gold spends — knowledge endures.</li><li><strong>Flaw:</strong> Pathologically paranoid. Has acted preemptively against innocents. Takes on unauthorized side clients.</li></ul><hr><h3>GM Notes</h3><p>Best as a recurring information broker, never a combat encounter. Always prep two exits for any scene. Trust threshold high — party must solve his problem with zero expectation of reward. If trust earned: access to guild intelligence, noble secrets, most dangerous rumors in the city.</p><h3>Secrets</h3><p>True Name: Veylan Voss. Records expunged. Selling curated intel to anonymous buyer in gemstones for six months. Sister Mira believes he's a cloth merchant named 'Daran Wess.' The one crack in his armor.</p><h3>Relationships</h3><p>Quilby 'Quick' Thistledown: Mutual utility, White Mouse dead drop. | Guildmaster Cael: Debt and resentment — saved his life. | Mira Voss (Sister): Genuine love — his one real vulnerability. | Anonymous Buyer: Unknown threat, gemstone payments.</p><h3>Plot Hooks</h3><p>1. Quilby lets slip Needle is seeking someone with the party's skillset — a job that cannot involve guild members.\n2. Anonymous buyer gives Needle ten days: guild vault codes or 'Mira learns everything.'\n3. Brotherhood lieutenant found dead implicating Needle. He's innocent — proof window closing.\n4. Someone using Needle's alias for murders. Framing — or a second 'Needle.'</p>",
+        "public": ""
+      },
+      "alignment": "Chaotic Neutral",
+      "race": "half-elf",
+      "type": {
+        "value": "humanoid",
+        "subtype": "half-elf",
+        "swarm": "",
+        "custom": ""
+      },
+      "cr": 3.0,
+      "spellLevel": 0,
+      "source": {
+        "book": "",
+        "page": "",
+        "license": "",
+        "custom": "City NPC Collection"
+      },
+      "xp": {
+        "value": 700
+      }
+    },
+    "traits": {
+      "size": "med",
+      "di": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "dr": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "dv": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "ci": {
+        "value": [],
+        "custom": ""
+      },
+      "languages": {
+        "value": [
+          "common",
+          "elvish",
+          "thieves",
+          "undercommon"
+        ],
+        "custom": ""
+      }
+    },
+    "skills": {
+      "acr": {
+        "value": 1,
+        "ability": "dex"
+      },
+      "dec": {
+        "value": 1,
+        "ability": "cha"
+      },
+      "his": {
+        "value": 1,
+        "ability": "int"
+      },
+      "ins": {
+        "value": 1,
+        "ability": "wis"
+      },
+      "prc": {
+        "value": 1,
+        "ability": "wis"
+      },
+      "slt": {
+        "value": 1,
+        "ability": "dex"
+      },
+      "ste": {
+        "value": 1,
+        "ability": "dex"
+      }
+    }
+  },
+  "prototypeToken": {
+    "name": "\"Needle\" Voss",
+    "displayName": 20,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "modules/runeforgestudio-city-npcs/assets/tokens/needle-voss.png",
+      "scaleX": 1,
+      "scaleY": 1
+    },
+    "sight": {
+      "enabled": true,
+      "range": 60
+    },
+    "disposition": 0,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": null
+    }
+  },
+  "items": [
+    {
+      "_id": "fXdZpZy2jqnaK5bB",
+      "name": "Sneak Attack (4d6)",
+      "type": "feat",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "description": {
+          "value": "<p>Once per turn, Needle deals an extra 4d6 damage when he hits with a finesse or ranged weapon and has advantage or an ally is adjacent to the target.</p>",
+          "chat": ""
+        },
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activation": {
+          "type": "",
+          "value": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst"
+        },
+        "target": {
+          "affects": {
+            "type": "creature"
+          }
+        },
+        "range": {
+          "value": null,
+          "units": "self"
+        },
+        "uses": {
+          "max": "",
+          "recovery": [],
+          "spent": 0
+        },
+        "activities": {}
+      },
+      "effects": [],
+      "flags": {}
+    },
+    {
+      "_id": "xr6KpJ0DI4oOw3oF",
+      "name": "Cunning Action",
+      "type": "feat",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "description": {
+          "value": "<p>Bonus action: Dash, Disengage, or Hide.</p>",
+          "chat": ""
+        },
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activation": {
+          "type": "",
+          "value": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst"
+        },
+        "target": {
+          "affects": {
+            "type": "creature"
+          }
+        },
+        "range": {
+          "value": null,
+          "units": "self"
+        },
+        "uses": {
+          "max": "",
+          "recovery": [],
+          "spent": 0
+        },
+        "activities": {}
+      },
+      "effects": [],
+      "flags": {}
+    },
+    {
+      "_id": "Yx2dM4uC2fJuZzrI",
+      "name": "Uncanny Dodge",
+      "type": "feat",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "description": {
+          "value": "<p>Reaction: halve damage from one attack per round.</p>",
+          "chat": ""
+        },
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activation": {
+          "type": "",
+          "value": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst"
+        },
+        "target": {
+          "affects": {
+            "type": "creature"
+          }
+        },
+        "range": {
+          "value": null,
+          "units": "self"
+        },
+        "uses": {
+          "max": "",
+          "recovery": [],
+          "spent": 0
+        },
+        "activities": {}
+      },
+      "effects": [],
+      "flags": {}
+    },
+    {
+      "_id": "EC2627fvcXyUeuCy",
+      "name": "Evasion",
+      "type": "feat",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "description": {
+          "value": "<p>DEX save: no damage on success, half on fail.</p>",
+          "chat": ""
+        },
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activation": {
+          "type": "",
+          "value": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst"
+        },
+        "target": {
+          "affects": {
+            "type": "creature"
+          }
+        },
+        "range": {
+          "value": null,
+          "units": "self"
+        },
+        "uses": {
+          "max": "",
+          "recovery": [],
+          "spent": 0
+        },
+        "activities": {}
+      },
+      "effects": [],
+      "flags": {}
+    },
+    {
+      "_id": "X57AfU7fO46EP1WK",
+      "name": "Reliable Talent",
+      "type": "feat",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "description": {
+          "value": "<p>Minimum 10 on proficient ability checks.</p>",
+          "chat": ""
+        },
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activation": {
+          "type": "",
+          "value": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst"
+        },
+        "target": {
+          "affects": {
+            "type": "creature"
+          }
+        },
+        "range": {
+          "value": null,
+          "units": "self"
+        },
+        "uses": {
+          "max": "",
+          "recovery": [],
+          "spent": 0
+        },
+        "activities": {}
+      },
+      "effects": [],
+      "flags": {}
+    },
+    {
+      "_id": "ec8kOS4Dqdq6otCR",
+      "name": "Fey Ancestry",
+      "type": "feat",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "description": {
+          "value": "<p>Advantage vs Charmed; immune to magical sleep.</p>",
+          "chat": ""
+        },
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activation": {
+          "type": "",
+          "value": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst"
+        },
+        "target": {
+          "affects": {
+            "type": "creature"
+          }
+        },
+        "range": {
+          "value": null,
+          "units": "self"
+        },
+        "uses": {
+          "max": "",
+          "recovery": [],
+          "spent": 0
+        },
+        "activities": {}
+      },
+      "effects": [],
+      "flags": {}
+    },
+    {
+      "_id": "lYs3anepcoprRPgY",
+      "name": "Shortsword +1 Thorn",
+      "type": "weapon",
+      "img": "icons/svg/sword.svg",
+      "system": {
+        "description": {
+          "value": "<p>Shortsword +1 Thorn (+8 to hit, 1d6+5 piercing, reach 5 ft)</p>"
+        },
+        "type": {
+          "value": "martialM",
+          "baseItem": ""
+        },
+        "damage": {
+          "base": {
+            "number": 1,
+            "denomination": 6,
+            "types": [
+              "piercing"
+            ],
+            "bonus": "5"
+          }
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "reach": 5,
+          "units": "ft"
+        },
+        "activities": {
+          "QeSRNcW9Y9i1uzSO": {
+            "_id": "QeSRNcW9Y9i1uzSO",
+            "type": "attack",
+            "activation": {
+              "type": "action",
+              "value": 1
+            },
+            "attack": {
+              "ability": "",
+              "bonus": "8",
+              "critical": {
+                "threshold": null
+              },
+              "flat": true,
+              "type": {
+                "value": "melee",
+                "classification": "weapon"
+              }
+            },
+            "damage": {
+              "parts": [
+                {
+                  "number": 1,
+                  "denomination": 6,
+                  "types": [
+                    "piercing"
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        "equipped": true,
+        "proficient": 1
+      },
+      "effects": [],
+      "flags": {}
+    },
+    {
+      "_id": "LwqbLIDC44weqF2a",
+      "name": "Hand Crossbow",
+      "type": "weapon",
+      "img": "icons/svg/sword.svg",
+      "system": {
+        "description": {
+          "value": "<p>Hand Crossbow (+7 to hit, 1d6+4 piercing, range 30/120 ft)</p>"
+        },
+        "type": {
+          "value": "martialR",
+          "baseItem": ""
+        },
+        "damage": {
+          "base": {
+            "number": 1,
+            "denomination": 6,
+            "types": [
+              "piercing"
+            ],
+            "bonus": "4"
+          }
+        },
+        "range": {
+          "value": 30,
+          "long": 120,
+          "reach": null,
+          "units": "ft"
+        },
+        "activities": {
+          "VHImUtR7fYKEcsbv": {
+            "_id": "VHImUtR7fYKEcsbv",
+            "type": "attack",
+            "activation": {
+              "type": "action",
+              "value": 1
+            },
+            "attack": {
+              "ability": "",
+              "bonus": "7",
+              "critical": {
+                "threshold": null
+              },
+              "flat": true,
+              "type": {
+                "value": "ranged",
+                "classification": "weapon"
+              }
+            },
+            "damage": {
+              "parts": [
+                {
+                  "number": 1,
+                  "denomination": 6,
+                  "types": [
+                    "piercing"
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        "equipped": true,
+        "proficient": 1
+      },
+      "effects": [],
+      "flags": {}
+    },
+    {
+      "_id": "R3XjqLyUnwx5uqAz",
+      "name": "Dagger",
+      "type": "weapon",
+      "img": "icons/svg/sword.svg",
+      "system": {
+        "description": {
+          "value": "<p>Dagger (+7 to hit, 1d4+4 piercing, range 20/60 ft)</p>"
+        },
+        "type": {
+          "value": "martialR",
+          "baseItem": ""
+        },
+        "damage": {
+          "base": {
+            "number": 1,
+            "denomination": 4,
+            "types": [
+              "piercing"
+            ],
+            "bonus": "4"
+          }
+        },
+        "range": {
+          "value": 20,
+          "long": 60,
+          "reach": null,
+          "units": "ft"
+        },
+        "activities": {
+          "q8JhwCcQBEOrgljz": {
+            "_id": "q8JhwCcQBEOrgljz",
+            "type": "attack",
+            "activation": {
+              "type": "action",
+              "value": 1
+            },
+            "attack": {
+              "ability": "",
+              "bonus": "7",
+              "critical": {
+                "threshold": null
+              },
+              "flat": true,
+              "type": {
+                "value": "ranged",
+                "classification": "weapon"
+              }
+            },
+            "damage": {
+              "parts": [
+                {
+                  "number": 1,
+                  "denomination": 4,
+                  "types": [
+                    "piercing"
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        "equipped": true,
+        "proficient": 1
+      },
+      "effects": [],
+      "flags": {}
+    }
+  ],
+  "effects": [],
+  "flags": {}
+}

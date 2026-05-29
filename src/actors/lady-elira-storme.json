@@ -1,0 +1,355 @@
+{
+  "_id": "ic8CURBYPWP6Ftx7",
+  "name": "Lady Elira Storme",
+  "type": "npc",
+  "img": "modules/runeforgestudio-city-npcs/assets/portraits/lady-elira-storme.png",
+  "folder": "BE3uksytplbVyIL3",
+  "system": {
+    "abilities": {
+      "str": {
+        "value": 8,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "dex": {
+        "value": 11,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "con": {
+        "value": 12,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "int": {
+        "value": 16,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "wis": {
+        "value": 14,
+        "proficient": 1,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "cha": {
+        "value": 18,
+        "proficient": 1,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      }
+    },
+    "attributes": {
+      "ac": {
+        "flat": 14,
+        "calc": "flat"
+      },
+      "hp": {
+        "value": 33,
+        "max": 33,
+        "temp": 0,
+        "tempmax": 0,
+        "formula": "6d8+6"
+      },
+      "init": {
+        "ability": "dex",
+        "bonus": ""
+      },
+      "movement": {
+        "walk": 30,
+        "fly": 0,
+        "swim": 0,
+        "burrow": 0,
+        "climb": 0,
+        "hover": false,
+        "units": "ft"
+      },
+      "senses": {
+        "darkvision": 0,
+        "blindsight": 0,
+        "tremorsense": 0,
+        "truesight": 0,
+        "units": "ft",
+        "special": ""
+      },
+      "spellcasting": "cha"
+    },
+    "details": {
+      "biography": {
+        "value": "<p><em>A tall woman upon whom age has settled with the weight of authority rather than frailty. Silver-gray hair pinned with architectural precision. Eyes of pale winter-sky blue — clear, patient, completely impenetrable. Her hands are covered in rings, each chosen with meaning: family seals, political alliances, favors collected and outstanding.</em></p><h3>Personality</h3><p>Precise, unhurried, and almost oppressively calm. Elira never appears surprised. She speaks in measured cadences that leave her counterpart feeling she already knew what they were going to say. She deploys warmth as a political instrument — rationed, targeted, effective.</p><h3>Motivation</h3><p>To secure the Storme family's dominance over the political and economic structures of the city for another generation — and to keep the uncomfortable truths buried beneath the city exactly where they are.</p><h3>Mannerisms</h3><p>Allows silences to extend longer than comfortable for her counterpart; examines her rings while listening, as if counting something; uses first names for those politically beneath her, formal titles for everyone else; never raises her voice — the room goes quiet instead.</p><h3>Voice &amp; Accent</h3><p>Quiet, composed contralto. Speaks as if she has already heard every version of the conversation and selected the most efficient path through it. Never stumbles. Never over-qualifies.</p><h3>Bonds, Ideals, Flaws</h3><ul><li><strong>Bond:</strong> Her daughter Eliana is her only genuine vulnerability. The city itself is her legacy, her burden, and her inheritance. Brynn Ironvale: an outstanding debt Elira will never acknowledge publicly.</li><li><strong>Ideal:</strong> Stability is the highest virtue. A city still standing in fifty years counts for more than justice administered today.</li><li><strong>Flaw:</strong> She cannot ask for help directly. Every situation she enters, she controls — and she cannot bear the vulnerability of genuine dependency.</li></ul><hr><h3>GM Notes</h3><p>Use Elira as the political ceiling of the City set. She is not a villain — but she is a wall. Whether she becomes an ally or an insurmountable obstacle depends entirely on whether the group's intentions threaten her stability.</p><h3>Secrets</h3><p>1. The Silver Mine: She possesses a confidential inspector's report on an anomalous black mineral — and instead of having the inspector killed, had him quietly reassigned out of the city.\n2. The Orphan School: Funding runs through a technically illegal diversion of city tax revenues.\n3. The Expedition: A failed expedition with Brynn Ironvale unearthed the city's original founding charter — a document that would transfer authority to a rival noble house. Elira possesses it.</p><h3>Relationships</h3><p>Brynn Ironvale: rescuer, silent accomplice, the only person who could destroy her — and has not. | Eliana (daughter): genuine love, overlaid with control. | Guard Captain Garin Falkner: a useful instrument. | Joran Hollowquill: she suspects he guards documents better left sealed. | Lady Orvaine: political rival — charming, ambitious, and in Elira's estimation not yet dangerous enough.</p><h3>Plot Hooks</h3><p>1. Eliana's disappearance coincides with a moment when Elira is already being blackmailed over the orphan fund.\n2. Elira offers the group a confidential commission: destroy the black mineral report before it reaches the wrong council member.\n3. A newly arrived noble presents documents challenging the Storme family's authority.\n4. The group finds evidence of the mine cover-up and forces Elira to a decision.</p><h3>Encounter Ideas</h3><p>1. Formal council audience — Elira controls every parameter of the room.\n2. Unexpected private meeting at Brynn's forge — the only neutral ground both women accept.\n3. Social collision when Eliana is returned by the group — Elira must choose between relief and political composure.</p>",
+        "public": ""
+      },
+      "alignment": "Lawful Neutral",
+      "race": "",
+      "type": {
+        "value": "humanoid",
+        "subtype": "",
+        "swarm": "",
+        "custom": ""
+      },
+      "cr": 3.0,
+      "spellLevel": 0,
+      "source": {
+        "book": "",
+        "page": "",
+        "license": "",
+        "custom": "City NPC Collection"
+      },
+      "xp": {
+        "value": 700
+      }
+    },
+    "traits": {
+      "size": "med",
+      "di": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "dr": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "dv": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "ci": {
+        "value": [],
+        "custom": ""
+      },
+      "languages": {
+        "value": [
+          "common",
+          "elvish"
+        ],
+        "custom": ""
+      }
+    },
+    "skills": {
+      "dec": {
+        "value": 1,
+        "ability": "cha"
+      },
+      "his": {
+        "value": 1,
+        "ability": "int"
+      },
+      "ins": {
+        "value": 1,
+        "ability": "wis"
+      },
+      "prc": {
+        "value": 1,
+        "ability": "wis"
+      },
+      "per": {
+        "value": 1,
+        "ability": "cha"
+      }
+    }
+  },
+  "prototypeToken": {
+    "name": "Lady Elira Storme",
+    "displayName": 20,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "modules/runeforgestudio-city-npcs/assets/tokens/lady-elira-storme.png",
+      "scaleX": 1,
+      "scaleY": 1
+    },
+    "sight": {
+      "enabled": true,
+      "range": 0
+    },
+    "disposition": 0,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": null
+    }
+  },
+  "items": [
+    {
+      "_id": "hv2R2V30npF7X0J7",
+      "name": "Council's Authority",
+      "type": "feat",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "description": {
+          "value": "<p>Creatures loyal to the Council or City Watch within the city must succeed on a DC 15 Wisdom saving throw when they wish to contradict one of Elira's direct instructions. On a failure, they comply for that scene. Creatures with direct counter-orders have advantage.</p>",
+          "chat": ""
+        },
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activation": {
+          "type": "",
+          "value": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst"
+        },
+        "target": {
+          "affects": {
+            "type": "creature"
+          }
+        },
+        "range": {
+          "value": null,
+          "units": "self"
+        },
+        "uses": {
+          "max": "",
+          "recovery": [],
+          "spent": 0
+        },
+        "activities": {}
+      },
+      "effects": [],
+      "flags": {}
+    },
+    {
+      "_id": "2Gd5gMVBWu0JZNyg",
+      "name": "Spellcasting (CHA, DC 15, +7)",
+      "type": "feat",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "description": {
+          "value": "<p>Cantrips: Vicious Mockery, Friends, Prestidigitation. 1st (4): Charm Person, Dissonant Whispers, Healing Word. 2nd (3): Calm Emotions, Detect Thoughts, Suggestion. 3rd (3): Hypnotic Pattern, Tongues.</p>",
+          "chat": ""
+        },
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activation": {
+          "type": "",
+          "value": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst"
+        },
+        "target": {
+          "affects": {
+            "type": "creature"
+          }
+        },
+        "range": {
+          "value": null,
+          "units": "self"
+        },
+        "uses": {
+          "max": "",
+          "recovery": [],
+          "spent": 0
+        },
+        "activities": {}
+      },
+      "effects": [],
+      "flags": {}
+    },
+    {
+      "_id": "nF95gJotkAzTc4YR",
+      "name": "Walking Cane Dagger",
+      "type": "weapon",
+      "img": "icons/svg/sword.svg",
+      "system": {
+        "description": {
+          "value": "<p>Walking Cane Dagger (+2 to hit, 1d4-1 piercing, reach 5 ft)</p>"
+        },
+        "type": {
+          "value": "martialM",
+          "baseItem": ""
+        },
+        "damage": {
+          "base": {
+            "number": 1,
+            "denomination": 4,
+            "types": [
+              "piercing"
+            ],
+            "bonus": ""
+          }
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "reach": 5,
+          "units": "ft"
+        },
+        "activities": {
+          "iMY1CxuhrWheUT80": {
+            "_id": "iMY1CxuhrWheUT80",
+            "type": "attack",
+            "activation": {
+              "type": "action",
+              "value": 1
+            },
+            "attack": {
+              "ability": "",
+              "bonus": "2",
+              "critical": {
+                "threshold": null
+              },
+              "flat": true,
+              "type": {
+                "value": "melee",
+                "classification": "weapon"
+              }
+            },
+            "damage": {
+              "parts": [
+                {
+                  "number": 1,
+                  "denomination": 4,
+                  "types": [
+                    "piercing"
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        "equipped": true,
+        "proficient": 1
+      },
+      "effects": [],
+      "flags": {}
+    }
+  ],
+  "effects": [],
+  "flags": {}
+}

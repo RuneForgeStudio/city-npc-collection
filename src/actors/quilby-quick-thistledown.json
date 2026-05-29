@@ -1,0 +1,475 @@
+{
+  "_id": "sz9FWa7Z9WMuzWHT",
+  "name": "Quilby \"Quick\" Thistledown",
+  "type": "npc",
+  "img": "modules/runeforgestudio-city-npcs/assets/portraits/quilby-quick-thistledown.png",
+  "folder": "BE3uksytplbVyIL3",
+  "system": {
+    "abilities": {
+      "str": {
+        "value": 8,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "dex": {
+        "value": 14,
+        "proficient": 1,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "con": {
+        "value": 12,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "int": {
+        "value": 16,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "wis": {
+        "value": 14,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "cha": {
+        "value": 18,
+        "proficient": 1,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      }
+    },
+    "attributes": {
+      "ac": {
+        "flat": 12,
+        "calc": "flat"
+      },
+      "hp": {
+        "value": 22,
+        "max": 22,
+        "temp": 0,
+        "tempmax": 0,
+        "formula": "4d6+8"
+      },
+      "init": {
+        "ability": "dex",
+        "bonus": ""
+      },
+      "movement": {
+        "walk": 25,
+        "fly": 0,
+        "swim": 0,
+        "burrow": 0,
+        "climb": 0,
+        "hover": false,
+        "units": "ft"
+      },
+      "senses": {
+        "darkvision": 60,
+        "blindsight": 0,
+        "tremorsense": 0,
+        "truesight": 0,
+        "units": "ft",
+        "special": ""
+      },
+      "spellcasting": "cha"
+    },
+    "details": {
+      "biography": {
+        "value": "<p><em>3'2\" tall, even small for a gnome. Wild copper-red hair that defies gravity. Thick bushy amber eyebrows above sharp, fox-like amber eyes. A well-trimmed beard with two small braids tied with copper wire. A prominent gold tooth that glints when he grins. Wears a well-worn leather apron with an improbable number of pockets, all visibly stuffed.</em></p><h3>Personality</h3><p>Never forgets a face or a drink order. Collects rumors the way others collect coins. Speaks in elaborate metaphors when nervous. Makes every single customer feel like the most important person in the room.</p><h3>Motivation</h3><p>Keep The White Mouse prosperous and remain the most well-informed being in town. Genuinely enjoys helping adventurers.</p><h3>Mannerisms</h3><p>Always polishes a glass when thinking — even a bone-dry clean one. Refers to himself in third person for solemn declarations ('Quick Thistledown does NOT betray his friends.'). Winks at nearly everyone.</p><h3>Voice &amp; Accent</h3><p>Surprisingly warm, deep baritone for a gnome — guests often do a double-take. Carries a faint northern lilt. His laugh is loud, genuine, and utterly infectious.</p><h3>Bonds, Ideals, Flaws</h3><ul><li><strong>Bond:</strong> The White Mouse was bequeathed to him by his late mentor, Marta Plum, a halfling innkeeper of legendary warmth.</li><li><strong>Ideal:</strong> Information is the most valuable currency in the world. Everyone deserves a fair deal — but knowledge must be earned, not simply handed over.</li><li><strong>Flaw:</strong> Cannot resist a truly juicy piece of gossip, even when sharing it puts him in danger. Hides a serious gambling problem.</li></ul><hr><h3>GM Notes</h3><p>Perfect entry NPC for new players — warm, approachable, packed with hooks. Sells rumors for 1 gp (may be unverified), confirmed info for 5 gp, sensitive intelligence for 10 gp + a favor. NOT a pushover: will use Suggestion or Charm Person without hesitation if cornered.</p><h3>Secrets</h3><p>Was a trained intelligence operative for the Silvermark Merchant Consortium. Knows the location of a hidden cache belonging to the deceased bandit lord 'Redclaw' Maren. Currently being blackmailed by an unknown party.</p><h3>Relationships</h3><p>Marta Plum (deceased mentor) | 'Needle' Voss / Thieves' Guild (protection deal) | Lady Orvaine (dangerous patron) | Brother Stelwick (temple healer, trades potions for discretion)</p><h3>Plot Hooks</h3><p>1. A merchant left his satchel at the bar and has since vanished — dangerous men are asking questions.\n2. Someone is poisoning the town well; Quilby noticed a pattern in which regulars are falling ill.\n3. A beloved regular hasn't been in for two weeks — Quilby offers 20 gp for information.\n4. The Thieves' Guild doubled their protection fee — Quilby needs the party to negotiate or solve the problem.</p><h3>Encounter Ideas</h3><p>1. Quilby is mid-argument with a dwarf over a tab when the party enters.\n2. Quilby hires the party to recover a stolen cask of vintage wine — it's actually a smuggling container.\n3. Quilby is accused of poisoning a noble guest — his past makes him look guilty, but he's being framed.\n4. A hooded figure slides a letter under the door at night — Quilby frantically signals the party to intercept them.</p>",
+        "public": ""
+      },
+      "alignment": "Chaotic Good",
+      "race": "gnome",
+      "type": {
+        "value": "humanoid",
+        "subtype": "gnome",
+        "swarm": "",
+        "custom": ""
+      },
+      "cr": 0.5,
+      "spellLevel": 0,
+      "source": {
+        "book": "",
+        "page": "",
+        "license": "",
+        "custom": "City NPC Collection"
+      },
+      "xp": {
+        "value": 100
+      }
+    },
+    "traits": {
+      "size": "sm",
+      "di": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "dr": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "dv": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "ci": {
+        "value": [],
+        "custom": ""
+      },
+      "languages": {
+        "value": [
+          "common",
+          "gnomish",
+          "elvish",
+          "thieves"
+        ],
+        "custom": ""
+      }
+    },
+    "skills": {
+      "per": {
+        "value": 1,
+        "ability": "cha"
+      },
+      "dec": {
+        "value": 1,
+        "ability": "cha"
+      },
+      "his": {
+        "value": 1,
+        "ability": "int"
+      },
+      "ins": {
+        "value": 1,
+        "ability": "wis"
+      },
+      "prc": {
+        "value": 1,
+        "ability": "wis"
+      },
+      "prf": {
+        "value": 1,
+        "ability": "cha"
+      },
+      "slt": {
+        "value": 1,
+        "ability": "dex"
+      }
+    }
+  },
+  "prototypeToken": {
+    "name": "Quilby \"Quick\" Thistledown",
+    "displayName": 20,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "modules/runeforgestudio-city-npcs/assets/tokens/quilby-quick-thistledown.png",
+      "scaleX": 1,
+      "scaleY": 1
+    },
+    "sight": {
+      "enabled": true,
+      "range": 60
+    },
+    "disposition": 1,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": null
+    }
+  },
+  "items": [
+    {
+      "_id": "ZTVpvCZXJJ7n0dGi",
+      "name": "Gnome Cunning",
+      "type": "feat",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "description": {
+          "value": "<p>Quilby has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.</p>",
+          "chat": ""
+        },
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activation": {
+          "type": "",
+          "value": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst"
+        },
+        "target": {
+          "affects": {
+            "type": "creature"
+          }
+        },
+        "range": {
+          "value": null,
+          "units": "self"
+        },
+        "uses": {
+          "max": "",
+          "recovery": [],
+          "spent": 0
+        },
+        "activities": {}
+      },
+      "effects": [],
+      "flags": {}
+    },
+    {
+      "_id": "timi74z8Uxf4x96t",
+      "name": "Bardic Inspiration (4/day)",
+      "type": "feat",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "description": {
+          "value": "<p>Bonus action — one creature within 60 ft gains a d6 Inspiration die (10 min).</p>",
+          "chat": ""
+        },
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activation": {
+          "type": "",
+          "value": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst"
+        },
+        "target": {
+          "affects": {
+            "type": "creature"
+          }
+        },
+        "range": {
+          "value": null,
+          "units": "self"
+        },
+        "uses": {
+          "max": "",
+          "recovery": [],
+          "spent": 0
+        },
+        "activities": {}
+      },
+      "effects": [],
+      "flags": {}
+    },
+    {
+      "_id": "6mSroOZe5j6lMmCy",
+      "name": "Trustworthy Face",
+      "type": "feat",
+      "img": "icons/svg/aura.svg",
+      "system": {
+        "description": {
+          "value": "<p>Creatures have disadvantage on Insight checks to detect Quilby's lies.</p>",
+          "chat": ""
+        },
+        "type": {
+          "value": "monster",
+          "subtype": ""
+        },
+        "activation": {
+          "type": "",
+          "value": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": "inst"
+        },
+        "target": {
+          "affects": {
+            "type": "creature"
+          }
+        },
+        "range": {
+          "value": null,
+          "units": "self"
+        },
+        "uses": {
+          "max": "",
+          "recovery": [],
+          "spent": 0
+        },
+        "activities": {}
+      },
+      "effects": [],
+      "flags": {}
+    },
+    {
+      "_id": "SCVvFB2u4EDvACAv",
+      "name": "Shortsword",
+      "type": "weapon",
+      "img": "icons/svg/sword.svg",
+      "system": {
+        "description": {
+          "value": "<p>Shortsword (+4 to hit, 1d6+2 piercing, reach 5 ft)</p>"
+        },
+        "type": {
+          "value": "martialM",
+          "baseItem": ""
+        },
+        "damage": {
+          "base": {
+            "number": 1,
+            "denomination": 6,
+            "types": [
+              "piercing"
+            ],
+            "bonus": "2"
+          }
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "reach": 5,
+          "units": "ft"
+        },
+        "activities": {
+          "S8atuZ0lKSFjHmBZ": {
+            "_id": "S8atuZ0lKSFjHmBZ",
+            "type": "attack",
+            "activation": {
+              "type": "action",
+              "value": 1
+            },
+            "attack": {
+              "ability": "",
+              "bonus": "4",
+              "critical": {
+                "threshold": null
+              },
+              "flat": true,
+              "type": {
+                "value": "melee",
+                "classification": "weapon"
+              }
+            },
+            "damage": {
+              "parts": [
+                {
+                  "number": 1,
+                  "denomination": 6,
+                  "types": [
+                    "piercing"
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        "equipped": true,
+        "proficient": 1
+      },
+      "effects": [],
+      "flags": {}
+    },
+    {
+      "_id": "xlZ0bwDUuhuD0iLp",
+      "name": "Dagger",
+      "type": "weapon",
+      "img": "icons/svg/sword.svg",
+      "system": {
+        "description": {
+          "value": "<p>Dagger (+4 to hit, 1d4+2 piercing, range 20/60 ft)</p>"
+        },
+        "type": {
+          "value": "martialR",
+          "baseItem": ""
+        },
+        "damage": {
+          "base": {
+            "number": 1,
+            "denomination": 4,
+            "types": [
+              "piercing"
+            ],
+            "bonus": "2"
+          }
+        },
+        "range": {
+          "value": 20,
+          "long": 60,
+          "reach": null,
+          "units": "ft"
+        },
+        "activities": {
+          "Q2pBcuP7NYmTmfm9": {
+            "_id": "Q2pBcuP7NYmTmfm9",
+            "type": "attack",
+            "activation": {
+              "type": "action",
+              "value": 1
+            },
+            "attack": {
+              "ability": "",
+              "bonus": "4",
+              "critical": {
+                "threshold": null
+              },
+              "flat": true,
+              "type": {
+                "value": "ranged",
+                "classification": "weapon"
+              }
+            },
+            "damage": {
+              "parts": [
+                {
+                  "number": 1,
+                  "denomination": 4,
+                  "types": [
+                    "piercing"
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        "equipped": true,
+        "proficient": 1
+      },
+      "effects": [],
+      "flags": {}
+    }
+  ],
+  "effects": [],
+  "flags": {}
+}

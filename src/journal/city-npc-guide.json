@@ -1,0 +1,195 @@
+{
+  "_id": "IPcYzzNno3lQDlge",
+  "name": "City NPC Collection — GM Guide",
+  "folder": null,
+  "pages": [
+    {
+      "_id": "JKpWa5nkbAfbga2B",
+      "name": "City NPC Collection — Overview",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "text": {
+        "format": 1,
+        "content": "<h1>🏙️ City NPC Collection</h1>\n<p><em>D&amp;D 5e · 10 Fully Developed NPCs for Urban Campaigns</em></p>\n<h2>The Cast</h2>\n<p>Ten distinctive city NPCs spanning nobles, rogues, merchants, guards, bards, and warlocks. Each is designed for urban campaigns rich with intrigue, corruption, social encounters, and layered plot hooks. See the following pages for individual GM entries.</p>\n<h2>👥 The Roster</h2>\n<ul>\n<li><strong>Quilby &quot;Quick&quot; Thistledown</strong> — Gnome tavern keeper and information broker at The White Mouse</li>\n<li><strong>&quot;Needle&quot; Voss</strong> — Half-Elf arcane trickster and Thorn Brotherhood intelligence asset</li>\n<li><strong>Faelar Ironbloom</strong> — Elf master bowyer and quest giver for the corrupted moonheart grove</li>\n<li><strong>Brunna Rootmantle</strong> — Dwarf vegetable farmer and Sunday market baker with magical stoutcakes</li>\n<li><strong>Lady Elira Storme</strong> — Human council matriarch, city's most powerful political figure</li>\n<li><strong>Garron Vale</strong> — Human former watch lieutenant, the Lantern Warden of the city's dark alleys</li>\n<li><strong>Marla Crowshade</strong> — Human warlock with crow messengers and a tower full of dangerous rituals</li>\n<li><strong>Leoric Bramwell</strong> — Human spice merchant and cheerful charlatan at Bramwell's Aromas</li>\n<li><strong>Finnan</strong> — Half-Elf street bard, rumor broker, and protector of the city's forgotten children</li>\n<li><strong>Lady Orvaine</strong> — Human council rival to Elira, building a commercial empire in plain sight</li>\n</ul>\n<h2>📦 Installation Note</h2>\n<p>Actor images must be placed in the module's <em>assets/tokens/</em> and <em>assets/portraits/</em> directories. See the README.md for details.</p>"
+      },
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      }
+    },
+    {
+      "_id": "P1AdYVnOexfeptRG",
+      "name": "Quilby \"Quick\" Thistledown",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "text": {
+        "format": 1,
+        "content": "<h1>👤 Quilby \"Quick\" Thistledown</h1>\n<p><strong>Tier A</strong> · Gnome Bard · CR 0.5 · <em>The White Mouse Tavern, Market District</em></p>\n<p>@UUID[Compendium.runeforgestudio-city-npcs.actors.Actor.sz9FWa7Z9WMuzWHT]{Open Statblock}</p>\n<img src=\"modules/runeforgestudio-city-npcs/assets/portraits/quilby-quick-thistledown.png\" width=\"300\"/>\n<h2>📖 Description</h2><p>3'2\" tall, even small for a gnome. Wild copper-red hair that defies gravity. Thick bushy amber eyebrows above sharp, fox-like amber eyes. A well-trimmed beard with two small braids tied with copper wire. A prominent gold tooth that glints when he grins. Wears a well-worn leather apron with an improbable number of pockets, all visibly stuffed.</p>\n<h2>🎭 Personality</h2><p>Never forgets a face or a drink order. Collects rumors the way others collect coins. Speaks in elaborate metaphors when nervous. Makes every single customer feel like the most important person in the room.</p>\n<p><em>Voice:</em> Surprisingly warm, deep baritone for a gnome — guests often do a double-take. Carries a faint northern lilt. His laugh is loud, genuine, and utterly infectious.</p>\n<p><em>Mannerisms:</em> Always polishes a glass when thinking — even a bone-dry clean one. Refers to himself in third person for solemn declarations ('Quick Thistledown does NOT betray his friends.'). Winks at nearly everyone.</p>\n<h2>🎯 Motivation</h2><p>Keep The White Mouse prosperous and remain the most well-informed being in town. Genuinely enjoys helping adventurers.</p>\n<h2>🔒 GM Notes</h2><p>Perfect entry NPC for new players — warm, approachable, packed with hooks. Sells rumors for 1 gp (may be unverified), confirmed info for 5 gp, sensitive intelligence for 10 gp + a favor. NOT a pushover: will use Suggestion or Charm Person without hesitation if cornered.</p>\n<h2>🤫 Secrets</h2><p>Was a trained intelligence operative for the Silvermark Merchant Consortium. Knows the location of a hidden cache belonging to the deceased bandit lord 'Redclaw' Maren. Currently being blackmailed by an unknown party.</p>\n<h2>🪝 Plot Hooks</h2><p>1. A merchant left his satchel at the bar and has since vanished — dangerous men are asking questions.\n2. Someone is poisoning the town well; Quilby noticed a pattern in which regulars are falling ill.\n3. A beloved regular hasn't been in for two weeks — Quilby offers 20 gp for information.\n4. The Thieves' Guild doubled their protection fee — Quilby needs the party to negotiate or solve the problem.</p>\n<h2>🔗 Relationships</h2><p>Marta Plum (deceased mentor) | 'Needle' Voss / Thieves' Guild (protection deal) | Lady Orvaine (dangerous patron) | Brother Stelwick (temple healer, trades potions for discretion)</p>\n"
+      },
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      }
+    },
+    {
+      "_id": "KFXOLncTi3KJo2FE",
+      "name": "\"Needle\" Voss",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "text": {
+        "format": 1,
+        "content": "<h1>👤 \"Needle\" Voss</h1>\n<p><strong>Tier A</strong> · Half-Elf Rogue · CR 3 · <em>The White Mouse Tavern (dead drop); rented room above Aldric's Cobblery under alias 'Daran Wess'</em></p>\n<p>@UUID[Compendium.runeforgestudio-city-npcs.actors.Actor.JSD3FT4Ddrhssawj]{Open Statblock}</p>\n<img src=\"modules/runeforgestudio-city-npcs/assets/portraits/needle-voss.png\" width=\"300\"/>\n<h2>📖 Description</h2><p>Lean and wiry, 5'9\", coiled stillness. Sharp pale amber eyes. Short dark hair, slightly unkempt. Faded scar from left eyebrow to cheekbone. Silver needle tattoo on right wrist: mark of the Thorn Brotherhood.</p>\n<h2>🎭 Personality</h2><p>Cold, precise, and utterly professional. Never raises his voice — volume is weakness. Speaks in measured, clipped sentences with a dry, pitch-black sense of humor. Treats every interaction like a transaction.</p>\n<p><em>Voice:</em> Low, unhurried whisper. Slight northern coastal accent. Never interrupts. Never repeats himself.</p>\n<p><em>Mannerisms:</em> Constantly rolls a thin silver needle between his fingers. Never sits with his back to a door. Orders water at taverns, never ale. Counts exits within three seconds of entering any room.</p>\n<h2>🎯 Motivation</h2><p>Self-preservation through information control. Repay an unpayable debt to Cael. Keep Mira safe.</p>\n<h2>🔒 GM Notes</h2><p>Best as a recurring information broker, never a combat encounter. Always prep two exits for any scene. Trust threshold high — party must solve his problem with zero expectation of reward. If trust earned: access to guild intelligence, noble secrets, most dangerous rumors in the city.</p>\n<h2>🤫 Secrets</h2><p>True Name: Veylan Voss. Records expunged. Selling curated intel to anonymous buyer in gemstones for six months. Sister Mira believes he's a cloth merchant named 'Daran Wess.' The one crack in his armor.</p>\n<h2>🪝 Plot Hooks</h2><p>1. Quilby lets slip Needle is seeking someone with the party's skillset — a job that cannot involve guild members.\n2. Anonymous buyer gives Needle ten days: guild vault codes or 'Mira learns everything.'\n3. Brotherhood lieutenant found dead implicating Needle. He's innocent — proof window closing.\n4. Someone using Needle's alias for murders. Framing — or a second 'Needle.'</p>\n<h2>🔗 Relationships</h2><p>Quilby 'Quick' Thistledown: Mutual utility, White Mouse dead drop. | Guildmaster Cael: Debt and resentment — saved his life. | Mira Voss (Sister): Genuine love — his one real vulnerability. | Anonymous Buyer: Unknown threat, gemstone payments.</p>\n"
+      },
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      }
+    },
+    {
+      "_id": "G8Gc4KfHonAeqbi1",
+      "name": "Faelar Ironbloom",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "text": {
+        "format": 1,
+        "content": "<h1>👤 Faelar Ironbloom</h1>\n<p><strong>Tier B</strong> · Elf Bowyer · CR 1 · <em>Ironbloom Bowworks, a cedar-framed workshop near the village edge</em></p>\n<p>@UUID[Compendium.runeforgestudio-city-npcs.actors.Actor.msevRPfo9iY3CMDS]{Open Statblock}</p>\n<img src=\"modules/runeforgestudio-city-npcs/assets/portraits/faelar-ironbloom.png\" width=\"300\"/>\n<h2>📖 Description</h2><p>Tall, slender elf with copper-brown skin, silver-streaked black hair tied with braided bowstring, and calm green eyes that seem to measure grain and tension in everything he sees. His hands are scarred from forge heat and stained with resin.</p>\n<h2>🎭 Personality</h2><p>Patient, soft-spoken, and exacting. Faelar speaks as if every word must be carved cleanly before it leaves his mouth. He respects skill over status and distrusts anyone who treats weapons as toys.</p>\n<p><em>Voice:</em> Quiet, warm, and precise. Old elven cadence with a faint woodland lilt. Rarely raises his voice.</p>\n<p><em>Mannerisms:</em> Runs his thumb along invisible wood grain when thinking. Tests the tension of any string nearby. Pauses before answering, as if listening for wind through leaves. Never hands over a bow without asking what it will be used for.</p>\n<h2>🎯 Motivation</h2><p>Faelar wants to craft one final masterwork bow from moonheart yew, a rare sacred wood from a hidden forest grove now corrupted by undead forces.</p>\n<h2>🔒 GM Notes</h2><p>Use Faelar as a grounded, emotionally restrained NPC with strong moral weight. His quest leads into a haunted forest encounter, an undead guardian, or a moral choice: cut the branch quickly or cleanse the grove first.</p>\n<h2>🤫 Secrets</h2><p>1. Faelar once made a bow for a noble ranger who used it to assassinate civilians during a succession war.\n2. The moonheart yew grove may contain the restless spirit of his former mentor, Lethariel Dawnstring.\n3. One of the three magical arrows he gives the party is experimental and may react unpredictably near undead corruption.</p>\n<h2>🪝 Plot Hooks</h2><p>1. Faelar asks the party to retrieve a living branch of moonheart yew from a hidden grove.\n2. He warns the grove may be guarded by undead or corrupted forest spirits.\n3. The party must decide whether to take the wood by force, cleanse the corruption, or communicate with the grove's guardian.\n4. A hunter returns with a black-veined arrow shaft from the forest, proving the corruption is spreading.</p>\n<h2>🔗 Relationships</h2><p>Village hunters: trusted supplier and quiet mentor. Local carpenter: friendly rivalry. Village elder: respects Faelar but worries his obsession with the grove will bring danger. Unknown undead presence: connected to the corruption of the moonheart yew grove.</p>\n"
+      },
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      }
+    },
+    {
+      "_id": "ug1TsZ3afOstfNcX",
+      "name": "Brunna Rootmantle",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "text": {
+        "format": 1,
+        "content": "<h1>👤 Brunna Rootmantle</h1>\n<p><strong>Tier B</strong> · Dwarf Farmer · CR 0.25 · <em>Rootmantle Cottage and vegetable plots behind the lane near The White Mouse Tavern; Sunday stall at the village market</em></p>\n<p>@UUID[Compendium.runeforgestudio-city-npcs.actors.Actor.hTeShDpPm4d6lvCd]{Open Statblock}</p>\n<img src=\"modules/runeforgestudio-city-npcs/assets/portraits/brunna-rootmantle.png\" width=\"300\"/>\n<h2>📖 Description</h2><p>Broad-shouldered dwarf woman with weather-browned skin, iron-gray braids tucked under a green kerchief, and forearms strong from years of hauling root crates. Her left eyebrow is permanently raised in suspicion. She smells faintly of rye flour, damp soil, woodsmoke, and peppered cabbage.</p>\n<h2>🎭 Personality</h2><p>Gruff, practical, and allergic to nonsense. Brunna complains before helping, complains while helping, and then quietly makes sure everyone has eaten. She respects punctuality, clean boots, honest work, and anyone who can tell a turnip from a rutabaga without guessing.</p>\n<p><em>Voice:</em> Low, gravelly Dwarvish contralto with clipped market-day impatience. Uses farm metaphors constantly. When worried, she mutters recipes under her breath like prayers.</p>\n<p><em>Mannerisms:</em> Squints at coins as if they might be personally insulting her. Calls adventurers 'blade-folk' whether they carry blades or not. Taps bad vegetables with one knuckle and can identify rot by sound. Softens immediately around children, then denies it if noticed.</p>\n<h2>🎯 Motivation</h2><p>Keep her small family fed, protect the local harvest from blight and bandits, and prove that plain village food can save more lives than half the swords in an adventuring company.</p>\n<h2>🔒 GM Notes</h2><p>Use Brunna as a reliable small-town supply NPC with teeth. Her magic-adjacent baked goods are limited by ingredients and Sunday market availability. An excellent way to ground the party in village life.</p>\n<h2>🤫 Secrets</h2><p>1. Her late husband buried a sealed iron strongbox under the old onion patch after returning from militia service; she has never opened it.\n2. Her best-selling pepper-crust hand pies use a tiny measure of blessing-salt from an abandoned roadside shrine.\n3. Torren has been feeding a strange pale root-creature in the cellar, believing it to be a garden spirit.\n4. Brunna once saw a cloaked figure buying spoiled black carrots after midnight and recognized the boots as belonging to someone respectable.</p>\n<h2>🪝 Plot Hooks</h2><p>1. Brunna hires the party to find Torren after he follows the pale root-creature into an abandoned irrigation tunnel.\n2. Her Sunday stall is sabotaged with black-veined carrots that sicken customers.\n3. She asks the party to open her late husband's buried strongbox, but doing so attracts old militia enemies.\n4. A noble's steward tries to seize her plots for a 'road improvement' that would benefit a rival merchant.</p>\n<h2>🔗 Relationships</h2><p>Quilby 'Quick' Thistledown: neighbor and steady buyer of soup vegetables; weekly price arguments are practically a ritual. Torren Rootmantle: her eight-year-old son, curious, mud-covered, and too brave near cellars. Old Marra Kettlefen: rival market baker. Farmer's Circle: respect her work ethic but fear her temper.</p>\n"
+      },
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      }
+    },
+    {
+      "_id": "RqRyESl9FHqvIEiv",
+      "name": "Lady Elira Storme",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "text": {
+        "format": 1,
+        "content": "<h1>👤 Lady Elira Storme</h1>\n<p><strong>Tier A</strong> · Human Bard · CR 3 · <em>Storme Estate in the upper noble quarter; private study in the Council Hall</em></p>\n<p>@UUID[Compendium.runeforgestudio-city-npcs.actors.Actor.ic8CURBYPWP6Ftx7]{Open Statblock}</p>\n<img src=\"modules/runeforgestudio-city-npcs/assets/portraits/lady-elira-storme.png\" width=\"300\"/>\n<h2>📖 Description</h2><p>A tall woman upon whom age has settled with the weight of authority rather than frailty. Silver-gray hair pinned with architectural precision. Eyes of pale winter-sky blue — clear, patient, completely impenetrable. Her hands are covered in rings, each chosen with meaning: family seals, political alliances, favors collected and outstanding.</p>\n<h2>🎭 Personality</h2><p>Precise, unhurried, and almost oppressively calm. Elira never appears surprised. She speaks in measured cadences that leave her counterpart feeling she already knew what they were going to say. She deploys warmth as a political instrument — rationed, targeted, effective.</p>\n<p><em>Voice:</em> Quiet, composed contralto. Speaks as if she has already heard every version of the conversation and selected the most efficient path through it. Never stumbles. Never over-qualifies.</p>\n<p><em>Mannerisms:</em> Allows silences to extend longer than comfortable for her counterpart; examines her rings while listening, as if counting something; uses first names for those politically beneath her, formal titles for everyone else; never raises her voice — the room goes quiet instead.</p>\n<h2>🎯 Motivation</h2><p>To secure the Storme family's dominance over the political and economic structures of the city for another generation — and to keep the uncomfortable truths buried beneath the city exactly where they are.</p>\n<h2>🔒 GM Notes</h2><p>Use Elira as the political ceiling of the City set. She is not a villain — but she is a wall. Whether she becomes an ally or an insurmountable obstacle depends entirely on whether the group's intentions threaten her stability.</p>\n<h2>🤫 Secrets</h2><p>1. The Silver Mine: She possesses a confidential inspector's report on an anomalous black mineral — and instead of having the inspector killed, had him quietly reassigned out of the city.\n2. The Orphan School: Funding runs through a technically illegal diversion of city tax revenues.\n3. The Expedition: A failed expedition with Brynn Ironvale unearthed the city's original founding charter — a document that would transfer authority to a rival noble house. Elira possesses it.</p>\n<h2>🪝 Plot Hooks</h2><p>1. Eliana's disappearance coincides with a moment when Elira is already being blackmailed over the orphan fund.\n2. Elira offers the group a confidential commission: destroy the black mineral report before it reaches the wrong council member.\n3. A newly arrived noble presents documents challenging the Storme family's authority.\n4. The group finds evidence of the mine cover-up and forces Elira to a decision.</p>\n<h2>🔗 Relationships</h2><p>Brynn Ironvale: rescuer, silent accomplice, the only person who could destroy her — and has not. | Eliana (daughter): genuine love, overlaid with control. | Guard Captain Garin Falkner: a useful instrument. | Joran Hollowquill: she suspects he guards documents better left sealed. | Lady Orvaine: political rival — charming, ambitious, and in Elira's estimation not yet dangerous enough.</p>\n"
+      },
+      "sort": 600000,
+      "ownership": {
+        "default": -1
+      }
+    },
+    {
+      "_id": "WpWhvwREnGmmD416",
+      "name": "Garron Vale",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "text": {
+        "format": 1,
+        "content": "<h1>👤 Garron Vale</h1>\n<p><strong>Tier B</strong> · Human Fighter · CR 1 · <em>Fog-covered alleys, lower market district, old watch checkpoints</em></p>\n<p>@UUID[Compendium.runeforgestudio-city-npcs.actors.Actor.HKVVGgt0VpQ0PheL]{Open Statblock}</p>\n<img src=\"modules/runeforgestudio-city-npcs/assets/portraits/garron-vale.png\" width=\"300\"/>\n<h2>📖 Description</h2><p>A broad-shouldered human man with short greying hair, a scar near his jawline, and tired eyes sharpened by years of night patrols. He wears a weathered city watch cloak over chain armor and carries an old lantern that casts a warm amber glow.</p>\n<h2>🎭 Personality</h2><p>Quiet, vigilant, and deeply disciplined. Garron speaks with measured restraint and constantly watches his surroundings. He has little patience for corruption or cruelty, especially from those in authority.</p>\n<p><em>Voice:</em> Low, tired, steady. Speaks like someone used to giving patrol reports and short warnings.</p>\n<p><em>Mannerisms:</em> Adjusts the lantern flame while thinking; pauses before entering dark streets; keeps one hand close to his staff at all times.</p>\n<h2>🎯 Motivation</h2><p>To protect ordinary citizens from the corruption festering inside the city watch and gather enough evidence to expose the former captain who betrayed his oath.</p>\n<h2>🔒 GM Notes</h2><p>Use Garron as a grounded urban protector NPC who can guide players through the darker parts of the city. He works well for investigation campaigns, corruption storylines, and morally gray city adventures.</p>\n<h2>🤫 Secrets</h2><p>Garron possesses hidden records proving several city watch officers accepted bribes from smugglers and nobles. One missing witness could expose the entire network.</p>\n<h2>🪝 Plot Hooks</h2><p>1. Garron asks the party to escort a frightened witness through dangerous alleys.\n2. A corrupt officer frames Garron for murder.\n3. Strange disappearances occur along Garron's old patrol route.\n4. Garron discovers evidence linking smugglers to the city council.</p>\n<h2>🔗 Relationships</h2><p>Former City Watch Captain: hidden enemy and source of Garron's disgrace. Local citizens: cautious respect. Street vendors and night workers quietly support Garron. Marla Crowshade: mutual suspicion and wary respect — Garron has observed the unnatural blue lights from her ruined tower during his night patrols.</p>\n"
+      },
+      "sort": 700000,
+      "ownership": {
+        "default": -1
+      }
+    },
+    {
+      "_id": "HUvZpF4EVukL0UH2",
+      "name": "Marla Crowshade",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "text": {
+        "format": 1,
+        "content": "<h1>👤 Marla Crowshade</h1>\n<p><strong>Tier B</strong> · Human Warlock · CR 1 · <em>Ruined tower at the city's edge, hidden upper chamber</em></p>\n<p>@UUID[Compendium.runeforgestudio-city-npcs.actors.Actor.WCHUWCuHb7kK5maB]{Open Statblock}</p>\n<img src=\"modules/runeforgestudio-city-npcs/assets/portraits/marla-crowshade.png\" width=\"300\"/>\n<h2>📖 Description</h2><p>A gaunt woman with sharp features, long raven-black hair streaked with feathers, and piercing blue eyes that seem to glow faintly in darkness. She wears a dark, tattered robe adorned with crow feathers and carries a crooked staff resembling a talon.</p>\n<h2>🎭 Personality</h2><p>Cryptic, observant, and slyly amused. Marla speaks in riddles and half-truths, always hinting she knows more than she reveals. She is careful whom she trusts, but delights in unsettling the overly bold.</p>\n<p><em>Voice:</em> Soft, airy, and eerily calm. She speaks slowly, as if savoring each word.</p>\n<p><em>Mannerisms:</em> Tilts her head like a bird when intrigued; absently twirls a feather between her fingers; speaks softly but pauses dramatically before unsettling revelations.</p>\n<h2>🎯 Motivation</h2><p>To protect ancient secrets of the city and maintain her delicate balance of power with unseen forces. She seeks knowledge, not dominance.</p>\n<h2>🔒 GM Notes</h2><p>Use Marla as a mysterious informant, quest-giver, or reluctant ally in city intrigue. Her knowledge is valuable, but her motives are layered. Spells: Eldritch Blast, Arms of Hadar, Misty Step, Suggestion.</p>\n<h2>🤫 Secrets</h2><p>Marla knows of a sealed crypt nearby where undead have begun to rise, but she has not revealed its true origin. Her pact is with a neutral underworld watcher. Once every seven days she can activate a hidden summoning circle in her tower.</p>\n<h2>🪝 Plot Hooks</h2><p>1. Marla requests the party investigate the crypt where undead emerge.\n2. A stolen page from Marla's tome ends up in a rival's hands.\n3. Strange blue lights appear above the tower, attracting guards, cultists, and curious scholars.\n4. A summoned underworld entity asks the party for an unusual favor.\n5. Garron asks the party to find out what Marla is really summoning.</p>\n<h2>🔗 Relationships</h2><p>Garron Vale: mutual suspicion. They have observed each other from afar during nocturnal patrols but remain wary and untrusting. City folk: fearful rumors about her tower lights and midnight rituals. Crows: messengers, spies, and symbolic companions.</p>\n"
+      },
+      "sort": 800000,
+      "ownership": {
+        "default": -1
+      }
+    },
+    {
+      "_id": "8caVQqA1wy4bTzG6",
+      "name": "Leoric Bramwell",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "text": {
+        "format": 1,
+        "content": "<h1>👤 Leoric Bramwell</h1>\n<p><strong>Tier C</strong> · Human Rogue · CR 0.5 · <em>Bramwell's Aromas, a small spice and delicacy shop near a refined market street</em></p>\n<p>@UUID[Compendium.runeforgestudio-city-npcs.actors.Actor.1XPsaR0l5912b1aJ]{Open Statblock}</p>\n<img src=\"modules/runeforgestudio-city-npcs/assets/portraits/leoric-bramwell.png\" width=\"300\"/>\n<h2>📖 Description</h2><p>A well-dressed human man in his late thirties with a neatly styled moustache, expressive eyes, and a finely tailored coat with gold embroidery and distant-market-inspired patterns. He wears a distinctive saffron-colored ring that he claims was gifted by a foreign prince.</p>\n<h2>🎭 Personality</h2><p>Warm, theatrical, flattering, and endlessly talkative. Leoric sells stories as much as spices, and every conversation becomes a performance. He is charming, clever, and careful to sound more worldly than he truly is.</p>\n<p><em>Voice:</em> Smooth, warm, and theatrical. He speaks with polished confidence and sprinkles his stories with invented foreign phrases.</p>\n<p><em>Mannerisms:</em> Twists his pointed moustache while bargaining; waves scented spice samples under a customer's nose; lowers his voice dramatically before invented travel stories; taps his saffron ring when nervous.</p>\n<h2>🎯 Motivation</h2><p>To maintain his reputation as a worldly importer, grow his wealth, and keep anyone from discovering that most of his exotic travel stories are fabricated.</p>\n<h2>🔒 GM Notes</h2><p>Use Leoric as a comic but useful merchant NPC. Not evil, but vain and dishonest about his background. Can provide rare spices, rumors from wealthy households, gossip from merchants, and occasional access to private culinary events.</p>\n<h2>🤫 Secrets</h2><p>Leoric has never visited the distant lands he describes. His famous saffron ring is not a royal gift but a clever forgery. One recent shipment may contain an alchemical ingredient tied to smugglers.</p>\n<h2>🪝 Plot Hooks</h2><p>1. A customer asks the party to verify whether Leoric's rare spice shipment is genuine.\n2. A real foreign trader arrives and publicly challenges Leoric's invented travel stories.\n3. Someone steals Leoric's ledger, exposing wealthy customers and suspicious private orders.\n4. A spice blend accidentally contains a rare alchemical ingredient wanted by smugglers.\n5. Leoric hires the party to protect his reputation during a market festival.</p>\n<h2>🔗 Relationships</h2><p>Wealthy citizens: loyal customers who enjoy his stories. Restaurant owners: regular buyers of his spice blends. Real foreign traders: useful suppliers who know he has never traveled as far as he claims. Joran Hollowquill: could expose gaps in Leoric's fabricated historical anecdotes.</p>\n"
+      },
+      "sort": 900000,
+      "ownership": {
+        "default": -1
+      }
+    },
+    {
+      "_id": "jLUIgKPa9iNFVekB",
+      "name": "Finnan",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "text": {
+        "format": 1,
+        "content": "<h1>👤 Finnan</h1>\n<p><strong>Tier B</strong> · Half-Elf Bard · CR 1 · <em>City market district, taverns, orphanage quarter, and poorer wards</em></p>\n<p>@UUID[Compendium.runeforgestudio-city-npcs.actors.Actor.w1AMJHMID4bEm4n3]{Open Statblock}</p>\n<img src=\"modules/runeforgestudio-city-npcs/assets/portraits/finnan.png\" width=\"300\"/>\n<h2>📖 Description</h2><p>A slim and agile half-elf with medium-length wavy brown hair and alert green-gray eyes. Finnan wears simple light leather armor beneath a patched dark green cloak. A lute hangs at his side, a small dagger rests at his belt, and a plain amulet sits around his neck.</p>\n<h2>🎭 Personality</h2><p>Warm, quick-witted, observant, theatrical, and quietly brave. Finnan uses humor and music to disarm suspicion, but becomes serious when the weak are threatened.</p>\n<p><em>Voice:</em> Warm, melodic, playful, and slightly streetwise. Speaks like every sentence could become a song, but grows quiet and precise when danger is near.</p>\n<p><em>Mannerisms:</em> Tunes his lute when nervous; smiles before delivering bad news; lowers his voice whenever children or orphanage matters are mentioned; scans exits while performing.</p>\n<h2>🎯 Motivation</h2><p>To protect the forgotten children and poor families of the city while exposing corrupt officials from the shadows.</p>\n<h2>🔒 GM Notes</h2><p>Use Finnan as a friendly urban contact, recurring quest giver, tavern performer, rumor source, or emotional anchor for city-based adventures. He works especially well when the party needs social leads rather than a combat solution.</p>\n<h2>🤫 Secrets</h2><p>Finnan secretly belongs to a loose informant network that shares rumors to protect the vulnerable rather than profit from them.</p>\n<h2>🪝 Plot Hooks</h2><p>1. A child from Finnan's old orphanage has vanished after being seen near a municipal archive.\n2. Finnan asks the party to quietly follow a corrupt city officer who visits the poor wards at night.\n3. A false rumor implicates Finnan in a theft, forcing the party to decide whether to protect him.\n4. Finnan's informant network uncovers signs of a noble-backed child labor or trafficking ring.</p>\n<h2>🔗 Relationships</h2><p>Old orphanage: emotional home and source of his strongest loyalty. Street performers: informal allies and rumor carriers. Poor families: people he protects with songs, favors, and warnings. Corrupt city official: suspected enemy tied to missing children.</p>\n"
+      },
+      "sort": 1000000,
+      "ownership": {
+        "default": -1
+      }
+    },
+    {
+      "_id": "MK8ZHmGJzAueL7Cs",
+      "name": "Lady Orvaine",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "text": {
+        "format": 1,
+        "content": "<h1>👤 Lady Orvaine</h1>\n<p><strong>Tier A</strong> · Human Bard · CR 4 · <em>Orvaine Manor, upper noble quarter; Council chambers; curated social events across noble and merchant districts</em></p>\n<p>@UUID[Compendium.runeforgestudio-city-npcs.actors.Actor.3HlFPYq9TKqkc9or]{Open Statblock}</p>\n<img src=\"modules/runeforgestudio-city-npcs/assets/portraits/lady-orvaine.png\" width=\"300\"/>\n<h2>📖 Description</h2><p>A striking woman in her mid-thirties with rich auburn hair in a partially-pinned style, sharp green eyes behind a warm public smile, and the confident bearing of someone who has never needed to raise her voice. She dresses fashionably without severity — warm rather than austere — which is deliberate.</p>\n<h2>🎭 Personality</h2><p>Warmly charming, receptive, and strategically patient. She appears interested rather than ambitious. She listens more than she speaks with new acquaintances and remembers everything.</p>\n<p><em>Voice:</em> Warm, measured, attentive. She speaks as if the person she is talking to is the most relevant person she has encountered this week.</p>\n<p><em>Mannerisms:</em> Listens completely before responding; asks follow-up questions slightly more specific than comfortable; volunteers small personal admissions that create false intimacy; never checks whether she is the most powerful person in a room — she already knows.</p>\n<h2>🎯 Motivation</h2><p>To construct a commercial and political position so structurally embedded in the city's economy that her influence becomes a fact of civic life rather than a personality contest.</p>\n<h2>🔒 GM Notes</h2><p>Use Orvaine as a second political layer beneath Elira — younger, warmer in presentation, and building something Elira has not yet noticed. Can be ally, information source on Elira's methods, or long-term rival. Connects to Edra Fosse trade license plot and Cael financial arrangement.</p>\n<h2>🤫 Secrets</h2><p>Her commercial network will give her leverage over significant city import commerce within two years. She shares a financial arrangement with Cael neither has named. She knows more about Elira's orphan fund mechanism than Elira realizes.</p>\n<h2>🪝 Plot Hooks</h2><p>1. Orvaine requests a favor framed as personal — it also damages one of Elira's interests.\n2. Edra Fosse's documentation traces to silent partnerships in Orvaine's name.\n3. The party discovers the Cael-Orvaine connection before either knows.\n4. Orvaine quietly acquires something the party was cultivating before they noticed she was watching.</p>\n<h2>🔗 Relationships</h2><p>Lady Elira Storme: political rival whom Orvaine does not underestimate while Elira underestimates her. | Cael: silent financial overlap neither has named. | Quilby Thistledown: she finds him charming; he finds her dangerous. | Edra Fosse: has begun noticing patterns Orvaine prefers unnoticed.</p>\n"
+      },
+      "sort": 1100000,
+      "ownership": {
+        "default": -1
+      }
+    }
+  ],
+  "flags": {}
+}
